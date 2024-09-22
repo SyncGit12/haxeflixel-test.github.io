@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Thing.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="clicked0000" x="0" y="0" width="642" height="159"/>
+	<SubTexture name="clicked0001" x="0" y="0" width="642" height="159"/>
+	<SubTexture name="clicked0002" x="642" y="0" width="642" height="158" frameX="0" frameY="0" frameWidth="642" frameHeight="159"/>
+	<SubTexture name="clicked0003" x="642" y="0" width="642" height="158" frameX="0" frameY="0" frameWidth="642" frameHeight="159"/>
+	<SubTexture name="clicked0004" x="1284" y="0" width="642" height="158" frameX="0" frameY="0" frameWidth="642" frameHeight="159"/>
+	<SubTexture name="clicked0005" x="1284" y="0" width="642" height="158" frameX="0" frameY="0" frameWidth="642" frameHeight="159"/>
+	<SubTexture name="clicked0006" x="642" y="0" width="642" height="158" frameX="0" frameY="0" frameWidth="642" frameHeight="159"/>
+	<SubTexture name="clicked0007" x="642" y="0" width="642" height="158" frameX="0" frameY="0" frameWidth="642" frameHeight="159"/>
+	<SubTexture name="clicked0008" x="1284" y="0" width="642" height="158" frameX="0" frameY="0" frameWidth="642" frameHeight="159"/>
+	<SubTexture name="clicked0009" x="1284" y="0" width="642" height="158" frameX="0" frameY="0" frameWidth="642" frameHeight="159"/>
+	<SubTexture name="idle0000" x="1926" y="0" width="641" height="158" frameX="-1" frameY="-6" frameWidth="643" frameHeight="177"/>
+	<SubTexture name="idle0001" x="2567" y="0" width="642" height="160" frameX="0" frameY="-8" frameWidth="643" frameHeight="177"/>
+	<SubTexture name="idle0002" x="3209" y="0" width="641" height="165" frameX="-1" frameY="-9" frameWidth="643" frameHeight="177"/>
+	<SubTexture name="idle0003" x="0" y="165" width="643" height="161" frameX="0" frameY="-5" frameWidth="643" frameHeight="177"/>
+	<SubTexture name="idle0004" x="643" y="165" width="641" height="177" frameX="-1" frameY="0" frameWidth="643" frameHeight="177"/>
+	<SubTexture name="playing spinning0000" x="1284" y="165" width="596" height="356" frameX="-48" frameY="0" frameWidth="699" frameHeight="473"/>
+	<SubTexture name="playing spinning0001" x="1880" y="165" width="596" height="336" frameX="-46" frameY="-13" frameWidth="699" frameHeight="473"/>
+	<SubTexture name="playing spinning0002" x="2476" y="165" width="598" height="317" frameX="-42" frameY="-25" frameWidth="699" frameHeight="473"/>
+	<SubTexture name="playing spinning0003" x="3074" y="165" width="600" height="305" frameX="-37" frameY="-38" frameWidth="699" frameHeight="473"/>
+	<SubTexture name="playing spinning0004" x="0" y="521" width="602" height="295" frameX="-32" frameY="-51" frameWidth="699" frameHeight="473"/>
+	<SubTexture name="playing spinning0005" x="602" y="521" width="604" height="286" frameX="-26" frameY="-64" frameWidth="699" frameHeight="473"/>
+	<SubTexture name="playing spinning0006" x="1206" y="521" width="606" height="277" frameX="-20" frameY="-76" frameWidth="699" frameHeight="473"/>
+	<SubTexture name="playing spinning0007" x="1812" y="521" width="609" height="275" frameX="-13" frameY="-85" frameWidth="699" frameHeight="473"/>
+	<SubTexture name="playing spinning0008" x="2421" y="521" width="611" height="279" frameX="-6" frameY="-95" frameWidth="699" frameHeight="473"/>
+	<SubTexture name="playing spinning0009" x="3032" y="521" width="612" height="284" frameX="0" frameY="-105" frameWidth="699" frameHeight="473"/>
+	<SubTexture name="playing spinning0010" x="0" y="816" width="605" height="275" frameX="-21" frameY="-76" frameWidth="699" frameHeight="473"/>
+	<SubTexture name="playing spinning0011" x="605" y="816" width="599" height="300" frameX="-38" frameY="-38" frameWidth="699" frameHeight="473"/>
+	<SubTexture name="playing spinning0012" x="1204" y="816" width="595" height="356" frameX="-49" frameY="0" frameWidth="699" frameHeight="473"/>
+	<SubTexture name="playing spinning0013" x="1284" y="165" width="596" height="356" frameX="-48" frameY="0" frameWidth="699" frameHeight="473"/>
+	<SubTexture name="playing spinning0014" x="1799" y="816" width="595" height="374" frameX="-59" frameY="-2" frameWidth="699" frameHeight="473"/>
+	<SubTexture name="playing spinning0015" x="2394" y="816" width="593" height="392" frameX="-71" frameY="-4" frameWidth="699" frameHeight="473"/>
+	<SubTexture name="playing spinning0016" x="2987" y="816" width="590" height="409" frameX="-83" frameY="-7" frameWidth="699" frameHeight="473"/>
+	<SubTexture name="playing spinning0017" x="0" y="1225" width="586" height="425" frameX="-96" frameY="-10" frameWidth="699" frameHeight="473"/>
+	<SubTexture name="playing spinning0018" x="586" y="1225" width="581" height="441" frameX="-110" frameY="-13" frameWidth="699" frameHeight="473"/>
+	<SubTexture name="playing spinning0019" x="1167" y="1225" width="575" height="457" frameX="-124" frameY="-16" frameWidth="699" frameHeight="473"/>
+	<SubTexture name="playing spinning0020" x="1742" y="1225" width="583" height="433" frameX="-103" frameY="-13" frameWidth="699" frameHeight="473"/>
+	<SubTexture name="playing spinning0021" x="2325" y="1225" width="590" height="409" frameX="-83" frameY="-10" frameWidth="699" frameHeight="473"/>
+	<SubTexture name="playing spinning0022" x="2915" y="1225" width="594" height="383" frameX="-64" frameY="-8" frameWidth="699" frameHeight="473"/>
+	<SubTexture name="playing spinning0023" x="0" y="1682" width="596" height="356" frameX="-46" frameY="-6" frameWidth="699" frameHeight="473"/>
+	<SubTexture name="selected0000" x="596" y="1682" width="642" height="158" frameX="-1" frameY="-1" frameWidth="644" frameHeight="179"/>
+	<SubTexture name="selected0001" x="1238" y="1682" width="643" height="160" frameX="0" frameY="-8" frameWidth="644" frameHeight="179"/>
+	<SubTexture name="selected0002" x="1881" y="1682" width="642" height="167" frameX="-1" frameY="-12" frameWidth="644" frameHeight="179"/>
+	<SubTexture name="selected0003" x="2523" y="1682" width="644" height="159" frameX="0" frameY="-8" frameWidth="644" frameHeight="179"/>
+	<SubTexture name="selected0004" x="3167" y="1682" width="642" height="160" frameX="-1" frameY="0" frameWidth="644" frameHeight="179"/>
+</TextureAtlas>
